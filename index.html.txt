@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Sky Classics</title>
+    <link rel="stylesheet" href="styles.css"> <!-- You can create a styles.css file for custom styles -->
+</head>
+<body>
+    <header>
+        <h1>The Sky Classics</h1>
+        <nav>
+            <ul>
+                <li><a href="#about">About Us</a></li>
+                <li><a href="#music">Music</a></li>
+                <li><a href="#contact">Contact</a></li>
+                <li><a href="#events">Events</a></li>
+                <li><a href="#gallery">Gallery</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="about">
+            <h2>About Us</h2>
+            <p>Welcome to The Sky Classics! We are a music group dedicated to bringing you the best in [classical music].</p>
+            <h3>Meet the Band</h3>
+            <ul>
+                <li>Kwazi Buthelezi: Role</li>
+                <li>Siya Xolo: Role</li>
+                <li>Kwanele Khumalo: Role</li>
+		<li>Sandile Hlengwa: Role</li>
+                <!-- Add more members as needed -->
+            </ul>
+        </section>
+
+        <section id="music">
+            <h2>Music</h2>
+            <p>Check out our latest tracks!</p>
+            <ul>
+                <li><a href="#">Album 1</a></li>
+                <li><a href="#">Album 2</a></li>
+                <!-- Add more albums as needed -->
+            </ul>
+        </section>
+
+        <section id="contact">
+            <h2>Contact Us</h2>
+            <p>For bookings or inquiries, please reach out via:</p>
+            <ul>
+                <li>Phone: [+27 72 445 1920]</li>
+                <li>Email: <a href="mailto:youremail@example.com">youremail@example.com</a></li>
+                <li>Social Media: 
+                    <a href="TheSky_Classics">Facebook</a>, 
+                    <a href="TheSky_Classics">Instagram</a>,
+		    <a href="TheSky_Classics">TikTok</a>, 
+                    <a href="@TheSky_Classics">Twitter</a>
+                </li>
+            </ul>
+        </section>
+
+        <section id="events">
+            <h2>Upcoming Events</h2>
+            <ul>
+                <li>Event 1: Date & Location</li>
+                <li>Event 2: Date & Location</li>
+                <!-- Add more events as needed -->
+            </ul>
+        </section>
+
+        <section id="gallery">
+            <h2>Gallery</h2>
+            <p>Check out our latest photos!</p>
+            <!-- You can add images here -->
+            <img src="FB_IMG_1688767812155.jpg" alt="Image description">
+            <img src="40684387_237160883631177_6032468059006959616_n.jpg" alt="Image description">
+	    <img src="40321159_235453177135281_4931802090050682880_n.jpg" alt="Image description">
+	    <img src="80533089_459791028034827_2256708802390786048_n.jpg" alt="Image description">
+	    <img src="59634868_326295404717724_6757142033841782784_n.jpg" alt="Image description">
+	    <img src="IMG-20230630-WA0002.jpg" alt="Image description">
+
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 The Sky Classics. All rights reserved.</p>
+    </footer>
+</body>
+</html>
